@@ -2,8 +2,6 @@
 
 Course for create docker compose for laravel project
 
-
-<<<<<<< HEAD
 # add server container with docker files
 server:
 build:
